@@ -1,0 +1,26 @@
+Ex41
+The readnames function will read the info and add then to an array by using a while loop until the nextline.
+The outputname function will create a new file with the data we gather and write the names using a for loop.
+In the main function we will read the file using a scanner and we will sort them using the function collection.sort.
+Using a fileexception we will know if the file is not found.
+
+
+Ex42
+We create a function to print the data.
+we use a scanner and function file to read the input from the file.
+Using a while loop we print the data, and using the functions try and catch we are able to see if the file is not found.
+In the main function we called our print function passing the addres of the file.
+
+Ex43
+First, we use a scanner to get the input from the user.
+Then we prompt the user to provide all the information we need.
+We use the file writer function to create our file with the required specifications.
+We use an IOexception so we know if the file was not created correctly.
+
+Ex45
+
+Ex46
+First, we create a scanner to read our input file.
+Then we set up a treemap to get the input words .
+We use while loop to get the input into the treemap.
+Finally we use a for loop to print the * for every time the word is counted.
